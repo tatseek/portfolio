@@ -48,10 +48,12 @@ export default function Contact() {
 
         <div className="mt-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-3 text-sm text-[hsl(var(--muted))]">
           <a
-            href="tel:+919560853649"
+            href="https://drive.google.com/file/d/1wTMgGjSVbeGAnLbCVFq9IiKyGHDfc-nP/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="transition-colors hover:text-white"
           >
-            +91 95608 53649
+            Resume
           </a>
 
           <span className="hidden h-4 w-px bg-white/10 sm:block" />

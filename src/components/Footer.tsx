@@ -13,7 +13,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-wrap items-center gap-5">
-          <a
+          {/* <a
             href="https://github.com/tatseek"
             target="_blank"
             rel="noopener noreferrer"
@@ -29,7 +29,7 @@ export default function Footer() {
             className="text-xs text-white/40 transition-colors hover:text-white"
           >
             LinkedIn
-          </a>
+          </a> */}
 
           <span className="hidden h-4 w-px bg-white/10 sm:block" />
 
